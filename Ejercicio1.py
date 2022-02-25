@@ -1,6 +1,6 @@
 # Julio Chocano 201800684
 # Programa elaborado el 24/02/22
-# Juego simulado del gran 8
+# Juego simulado del gran 8, prueba
 
 import random
 import psycopg2
