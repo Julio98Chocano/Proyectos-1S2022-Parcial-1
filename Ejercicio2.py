@@ -36,6 +36,3 @@ conn.commit()
 
 cur.close()
 conn.close()
-
-
-    
