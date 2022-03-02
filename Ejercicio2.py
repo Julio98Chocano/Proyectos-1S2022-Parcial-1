@@ -1,6 +1,6 @@
 # Julio Chocano 201800684
 # Programa elaborado el 24/02/22
-# Calculadora estadistica de calificaciones
+# Calculadora estadistica de calificaciones.
 
 import statistics
 import psycopg2
@@ -36,6 +36,3 @@ conn.commit()
 
 cur.close()
 conn.close()
-
-
-    
