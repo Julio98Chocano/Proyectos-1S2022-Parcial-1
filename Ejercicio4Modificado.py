@@ -1,6 +1,7 @@
 # Julio Alejandro Chocano Lopez 201800684
 # Elaborado el 24/02/22
 # Programa que pide un numero y determina si es primo o compuesto
+#Comentario nuevo
 
 import psycopg2
 
