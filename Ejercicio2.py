@@ -1,7 +1,6 @@
 # Julio Chocano 201800684
 # Programa elaborado el 24/02/22
 # Calculadora estadistica de calificaciones.
-#Comentario
 
 import statistics
 import psycopg2
