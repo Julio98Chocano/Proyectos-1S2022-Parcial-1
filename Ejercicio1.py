@@ -3,11 +3,6 @@
 # Ultima modificacion: 05/04/2022
 # Juego simulado del gran 8
 
-# Julio Chocano 201800684
-# Creado: 24/02/2022
-# Ultima modificacion: 05/04/2022
-# Juego simulado del gran 8
-
 import random
 import psycopg2
 import os
