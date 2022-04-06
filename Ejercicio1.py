@@ -34,7 +34,7 @@ while True:
     selection = input("\nIngrese el numero de la opcion que desea: ") 
     if selection =='1': 
         suma = 0
-        while suma != 8:
+        while suma != 7 and suma != 8:
             print('Se procede a lanzar los dados')
             dado1 = random.randint(1, 6)
             dado2 = random.randint(1, 6)
